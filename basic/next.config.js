@@ -4,6 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
+        hostname: "https://github.com/Harshjs-Gupta",
         port: "",
         pathname: "/**",
       },
